@@ -1,0 +1,20 @@
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\bin\Debug\Sample Design Forms.exe.config
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\bin\Debug\Sample Design Forms.exe
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\bin\Debug\Sample Design Forms.pdb
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\obj\Debug\Sample Design Forms.csprojResolveAssemblyReference.cache
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\obj\Debug\Sample_Design_Forms.Form1.resources
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\obj\Debug\Sample_Design_Forms.Properties.Resources.resources
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\obj\Debug\Sample Design Forms.csproj.GenerateResource.Cache
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\obj\Debug\Sample Design Forms.exe
+c:\users\codeme\documents\visual studio 2015\Projects\Sample Design Forms\Sample Design Forms\obj\Debug\Sample Design Forms.pdb
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms\Sample Design Forms\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Debug\Sample Design Forms.exe.config
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Debug\Sample Design Forms.exe
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Debug\Sample Design Forms.pdb
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Debug\Sample Design Forms.exe
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Debug\Sample Design Forms.pdb
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Debug\Sample Design Forms.csprojResolveAssemblyReference.cache
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Debug\Sample_Design_Forms.Form1.resources
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Debug\Sample_Design_Forms.Properties.Resources.resources
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Debug\Sample Design Forms.csproj.GenerateResource.Cache

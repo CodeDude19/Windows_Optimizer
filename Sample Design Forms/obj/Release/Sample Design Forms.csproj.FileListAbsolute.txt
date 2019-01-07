@@ -1,0 +1,13 @@
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Sample_Design_Forms.Form1.resources
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Sample Design Forms.csproj.GenerateResource.Cache
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Release\Windows Optimizer.exe.config
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Release\Windows Optimizer.exe
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Release\Windows Optimizer.pdb
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Windows_Optimizer.Properties.Resources.resources
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Windows Optimizer.exe
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Windows Optimizer.pdb
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Release\Windows Optimizer.exe.manifest
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\bin\Release\Windows Optimizer.application
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Windows Optimizer.exe.manifest
+C:\Users\CodeME\Documents\Visual Studio 2015\Projects\Sample Design Forms - Copy\Sample Design Forms\obj\Release\Windows Optimizer.application
